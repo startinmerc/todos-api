@@ -1,1 +1,2 @@
 ./mongod
+nodemon index.js
